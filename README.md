@@ -10,7 +10,7 @@ Camera Effects
 
 This is my camera effect project 
 
-![picture_title](picture filename?raw=true "Optional Title")
+![Kevin's pic.](https://github.com/Loaeza1/loaeza1.github.io/blob/master/kevin's%20pic.PNG?raw=true "Optional Title")
 
 
 ***
